@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<meta charset = UTF-8>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<nav class="Singapore-bar Singapore-black">
+  <a href="#home" class="Singapore-button Singapore-bar-item">Home</a>
+  <a href="#band" class="Singapore-button Singapore-bar-item">Band</a>
+  <a href="#tour" class="Singapore-button Singapore-bar-item">Tour</a>
+  <a href="#contact" class="Singapore-button Singapore-bar-item">Contact</a>
+</nav>
